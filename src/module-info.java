@@ -1,0 +1,2 @@
+module ooad_design {
+}
